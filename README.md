@@ -1,5 +1,4 @@
-readme: |
-  #  Career Path Explorer
+ #  Career Path Explorer
 
   A modern React-based web application that helps computer engineering students explore different career paths and discover curated high-quality learning resources including YouTube playlists and trusted websites.
 
