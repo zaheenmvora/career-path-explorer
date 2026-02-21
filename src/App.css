@@ -1,0 +1,29 @@
+.resources {
+  margin-top: 40px;
+  padding: 20px;
+  background: #1e293b;
+  border-radius: 12px;
+  text-align: left;
+}
+
+.resources h2 {
+  text-align: center;
+}
+
+.resources ul {
+  list-style: none;
+  padding: 0;
+}
+
+.resources li {
+  margin: 8px 0;
+}
+
+.resources a {
+  color: #38bdf8;
+  text-decoration: none;
+}
+
+.resources a:hover {
+  text-decoration: underline;
+}
